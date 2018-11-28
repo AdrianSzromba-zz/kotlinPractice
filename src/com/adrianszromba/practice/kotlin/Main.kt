@@ -12,4 +12,8 @@ fun main(args: Array<String>) {
     println(point.x)
     println(point.y)
 
+    val pointS = PointS(1,2)
+    println(pointS.x)
+    println(pointS.y)
+
 }
